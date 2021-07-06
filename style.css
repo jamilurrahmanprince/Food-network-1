@@ -1,0 +1,41 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color:orange;
+}
+.flexible-container{
+    display:flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width:50%;
+    padding-left:5%;
+}
+.half-width img{
+    width:80%;
+}
+.place-order-button{
+ text-decoration: none;
+ background-image: linear-gradient(orange,orangered);
+ padding:10px 40px;
+ font-weight:700;
+ color:white;
+ border-radius:5px;   
+}
+.top-banner{
+  background-image: url(picturs/7.png) ; 
+  background-repeat: no-repeat; 
+
+}
+.About-us{
+    background-image: url(picturs/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+}
+.signature-dish{
+    background-image: url(picturs/Frame\ 58.jpg);
+}
